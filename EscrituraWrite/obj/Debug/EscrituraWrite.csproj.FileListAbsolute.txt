@@ -1,0 +1,7 @@
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\bin\Debug\EscrituraWrite.exe.config
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\bin\Debug\EscrituraWrite.exe
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\bin\Debug\EscrituraWrite.pdb
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\obj\Debug\EscrituraWrite.csproj.AssemblyReference.cache
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\obj\Debug\EscrituraWrite.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\obj\Debug\EscrituraWrite.exe
+C:\Users\Jaime\source\repos\EscrituraWrite\EscrituraWrite\obj\Debug\EscrituraWrite.pdb
